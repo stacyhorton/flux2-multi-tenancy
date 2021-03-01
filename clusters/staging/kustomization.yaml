@@ -4,3 +4,5 @@ resources:
 - infrastructure.yaml
 - tenants.yaml
 
+patches:
+- storage-classes.yaml
